@@ -23,5 +23,6 @@ Built with HTML, CSS and Javascript depends on the challenge.
 - [Stats preview card component](https://github.com/ewhite1999/stats-preview-card-component-main)
 - [3 column preview card component](https://github.com/ewhite1999/3-column-preview-card-component-main)
 - [Profile card component](https://github.com/ewhite1999/profile-card-component)
+- [FAQ accordion card component](https://github.com/ewhite1999/FAQ-accordion-card-hub)
 
 
